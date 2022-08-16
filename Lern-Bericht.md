@@ -17,6 +17,8 @@ Man kann durch PapDesigner einem Uhr erstellen, indem man: Eingaben,Vorgaben,Vor
 
 https://imgflip.com/gif/6q377i
 
+![Screenshot 2022-08-16 094608](https://user-images.githubusercontent.com/110893594/184825956-1283d147-0032-4597-8411-b8284760e3d8.png)
+
 ## Verifikation ##
 
 Mit diesen Bildern möchte ich zeigen, wie ein solcher Algorithmus aussieht und funktioniert.
